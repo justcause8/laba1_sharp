@@ -4,6 +4,7 @@
     static string[] courses = new string[5];
     static bool[,] enrollments = new bool[5, 10];
 
+
     private static void Main(string[] args)
     {
         while (true)
